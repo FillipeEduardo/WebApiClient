@@ -1,0 +1,15 @@
+C:\Users\ext.fillipeeos\Desktop\WebApiClient\bin\Debug\net6.0\WebApiClient.exe
+C:\Users\ext.fillipeeos\Desktop\WebApiClient\bin\Debug\net6.0\WebApiClient.deps.json
+C:\Users\ext.fillipeeos\Desktop\WebApiClient\bin\Debug\net6.0\WebApiClient.runtimeconfig.json
+C:\Users\ext.fillipeeos\Desktop\WebApiClient\bin\Debug\net6.0\WebApiClient.dll
+C:\Users\ext.fillipeeos\Desktop\WebApiClient\bin\Debug\net6.0\WebApiClient.pdb
+C:\Users\ext.fillipeeos\Desktop\WebApiClient\obj\Debug\net6.0\WebApiClient.csproj.AssemblyReference.cache
+C:\Users\ext.fillipeeos\Desktop\WebApiClient\obj\Debug\net6.0\WebApiClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ext.fillipeeos\Desktop\WebApiClient\obj\Debug\net6.0\WebApiClient.AssemblyInfoInputs.cache
+C:\Users\ext.fillipeeos\Desktop\WebApiClient\obj\Debug\net6.0\WebApiClient.AssemblyInfo.cs
+C:\Users\ext.fillipeeos\Desktop\WebApiClient\obj\Debug\net6.0\WebApiClient.csproj.CoreCompileInputs.cache
+C:\Users\ext.fillipeeos\Desktop\WebApiClient\obj\Debug\net6.0\WebApiClient.dll
+C:\Users\ext.fillipeeos\Desktop\WebApiClient\obj\Debug\net6.0\refint\WebApiClient.dll
+C:\Users\ext.fillipeeos\Desktop\WebApiClient\obj\Debug\net6.0\WebApiClient.pdb
+C:\Users\ext.fillipeeos\Desktop\WebApiClient\obj\Debug\net6.0\WebApiClient.genruntimeconfig.cache
+C:\Users\ext.fillipeeos\Desktop\WebApiClient\obj\Debug\net6.0\ref\WebApiClient.dll
